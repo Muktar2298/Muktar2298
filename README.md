@@ -17,7 +17,8 @@ I'm  Currently Undergraduate in Computer Science & Engineering. I'm a Profession
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Muktar2298&show_icons=true)  
+
+<h3>Simulation of my Github Activity </h3>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Muktar2298)  
 
