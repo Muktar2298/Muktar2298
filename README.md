@@ -15,7 +15,7 @@ I'm  Currently Undergraduate in Computer Science & Engineering. I'm a Profession
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muktar2298)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Muktar2298&show_icons=true)  
 
