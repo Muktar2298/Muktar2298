@@ -25,4 +25,4 @@ I'm  Currently Undergraduate in Computer Science & Engineering. I'm a Profession
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Muktar2298)  
 
-![Profile views](https://gpvc.arturio.dev/Muktar2298)  
+
