@@ -13,7 +13,7 @@ I'm  Currently Undergraduate in Computer Science & Engineering. I'm a Profession
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Muktar2298)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muktar2298)](https://github.com/anuraghazra/github-readme-stats)
 
