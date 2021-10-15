@@ -6,7 +6,7 @@
 I'm a Currently Undergraduate in Computer Science & Engineering. I'm a Professional Web App Developer .
 
 <h1>Skills : </h1>
-<h3>Front-End : HTML/CSS/JavaScript/React JS/UX&UI Design</h3>
+<h3 style="color:red">Front-End : HTML/CSS/JavaScript/React JS/UX&UI Design</h3>
 <h3>Back-End  : Node JS/Express JS/MongoDB/My SQL</h3>
 
 
