@@ -8,17 +8,7 @@ I'm  Currently Undergraduate in Computer Science & Engineering. I'm a Profession
 <h1>Skills : </h1>
 <h3>Front-End : HTML/CSS/JavaScript/React JS/UX&UI Design</h3>
 <h3>Back-End  : Node JS/Express JS/MongoDB/My SQL</h3>
-
-
-
-
-
-
-
-
-
-
-<h3>Simulation of my Github Activity </h3>
+<br/>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Muktar2298)  
 
