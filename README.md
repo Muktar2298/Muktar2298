@@ -1,4 +1,4 @@
-![CSE Engineer & Professional Web Developer](https://scontent.fdac136-1.fna.fbcdn.net/v/t1.6435-9/62450152_462709617814239_137525222185107456_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=174925&_nc_ohc=bZoeomojG9kAX_NBmWn&_nc_ht=scontent.fdac136-1.fna&oh=88f771429b87b5a60da8d70b742d38ce&oe=61847D1E)
+![CSE Engineer & Professional Web Developer]
 ###  Nishat Hasan Muktar
 #### CSE Engineer & Professional Web Developer
 
