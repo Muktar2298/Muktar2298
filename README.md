@@ -1,4 +1,4 @@
-![CSE Engineer & Professional Web Developer]
+
 ###  Nishat Hasan Muktar
 #### CSE Engineer & Professional Web Developer
 
@@ -9,7 +9,7 @@ Skills: JavaScript / React  /Node.JS / HTML / CSS
 
 -I’m currently working on Artificial Intelligence & Web Application 
 -I’m currently learning Web Engineering 
--Ask me about Web Development & Artificial Intelligence 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Muktar2298)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nishat2298)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://l.messenger.com/l.php?u=https%3A%2F%2Fmuktar2298.github.io%2FOnline-Resume%2F&h=AT26SPrYKHL02Ahmxruy7t9kYX6NZRgz09uVHP_bAi7NHcs_xBq_zNI_8PLIt0VH00y37kw5m-XdwzjjLvQfGH878qmktOh57LSiXl6hjbjPbwSiXtKf32MRvRWpV5in5gcqIg)  
